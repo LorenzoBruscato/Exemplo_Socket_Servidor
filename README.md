@@ -8,5 +8,5 @@ O servidor recebe mensagens enviadas por um cliente conectado e as exibe no cons
 
 ## 🔗 Links de outros repositórios
 
-- [Exemplo_Socket_Cliente](https://github.com/LorenzoBruscato/Exemplo_Socket_Servidor)
+- [Exemplo_Socket_Cliente](https://github.com/LorenzoBruscato/Exemplo_Socket_Cliente)
 - [Cliente_e_Servidor_Socket](https://github.com/LorenzoBruscato/Cliente_e_Servidor_Socket)
